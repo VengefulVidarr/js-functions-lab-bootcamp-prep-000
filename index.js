@@ -1,13 +1,6 @@
-// write your code below!
-string name("you")
-
-string holiday("Independence day")
-
-string day(20)
-
 function happyHolidays() {
   return `"Happy holidays!"`
-  console.log ('"Happy holidays!"')
+  console.log ('"Happy holidays!"');
 }
 
 function happyHolidaysTo(name){
