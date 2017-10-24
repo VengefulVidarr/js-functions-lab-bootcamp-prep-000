@@ -5,14 +5,14 @@ function happyHolidays() {
   return `"Happy holidays!"`
 }
 
-function happyHolidaysTo(string){
+function happyHolidaysTo(){
   return `Happy holidays, ${name}!`
 }
 
-function happyHolidayTo{
-
+function happyHolidayTo(){
+  return `"Happy ${holiday}, ${name}!"`
 }
 
-function holidayCountdown{
-
+function holidayCountdown(){
+  return `"It\'s ${days} until ${holiday}"`
 }
