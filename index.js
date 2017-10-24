@@ -3,11 +3,11 @@ var name("you")
 
 var holiday("Independence day")
 
-var day("20")
+var day(20)
 
 function happyHolidays() {
   return `"Happy holidays!"`
-  console.log (happyHolidays)
+  console.log ('"Happy holidays!"')
 }
 
 function happyHolidaysTo(){
