@@ -1,9 +1,9 @@
 // write your code below!
-var name("you")
+string name("you")
 
-var holiday("Independence day")
+string holiday("Independence day")
 
-var day(20)
+string day(20)
 
 function happyHolidays() {
   return `"Happy holidays!"`
