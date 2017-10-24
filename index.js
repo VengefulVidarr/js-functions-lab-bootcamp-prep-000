@@ -5,12 +5,15 @@ function happyHolidays() {
 
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`
+  console.log (happyHolidaysTo);
 }
 
 function happyHolidayTo(holiday, name){
   return `"Happy ${holiday}, ${name}!"`
+  console.log (happyHolidayTo);
 }
 
 function holidayCountdown(holiday, days){
   return `"It\'s ${days} until ${holiday}"`
+  console.log (holidayCountdown);
 }
